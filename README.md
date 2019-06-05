@@ -25,3 +25,10 @@ The checkpoints should be compatible with release v1.0 and v1.0.1.
 ## Misc
 The size of the checkpoints may be larger as they include CNN weights.
 
+
+## License and Copyright
+The project is open source under Apache-2.0 license (see the `LICENSE` file).
+
+&#169; 2019 Center of Image and Signal Processing, 
+Faculty of Computer Science and Information Technology, University of Malaya.
+
