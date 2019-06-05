@@ -19,7 +19,7 @@ python infer.py   \
 
 
 ## Version
-The checkpoints should be compatible with release v1.0 and v1.0.2.
+The checkpoints should be compatible with release v1.0 and v1.0.1.
 
 
 ## Misc
