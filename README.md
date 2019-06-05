@@ -1,6 +1,6 @@
 # COMIC: Towards a Compact Image Captioning Model with Attention
 
-Repo containing pre-trained model checkpoints.
+Repo containing **pre-trained model checkpoints**.
 The main repo is 
 [here](https://github.com/jiahuei/COMIC-Compact-Image-Captioning-with-Attention).
 
