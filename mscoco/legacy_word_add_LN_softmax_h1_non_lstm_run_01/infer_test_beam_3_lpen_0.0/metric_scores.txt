@@ -1,0 +1,16 @@
+===================================
+model_compact-531325
+Beam size: 3
+===================================
+Bleu_1: 0.707
+Bleu_2: 0.536
+Bleu_3: 0.400
+Bleu_4: 0.300
+METEOR: 0.239
+ROUGE_L: 0.522
+CIDEr: 0.906
+SPICE: 0.169
+Perplexity (valid): N/A
+Perplexity (test): N/A
+
+
